@@ -1,6 +1,4 @@
 ## Hi there 👋
-# Hi there 👋
-
 My name is Grace Waweru.
 
 I'm a Data Scientist and AI Enthusiast based in Kenya.
