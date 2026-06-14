@@ -48,7 +48,7 @@ I am passionate about leveraging Data Science and AI to solve real-world problem
 
 ## Fun Fact
 
-> Predicting the future with machine learning because crystal balls don't scale. 🔮
+> Finding patterns in data and excuses in error logs.
 <!--
 **Grace-Neema-bit/Grace-Neema-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
